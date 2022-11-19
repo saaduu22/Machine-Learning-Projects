@@ -1,10 +1,11 @@
-# Machine-Learning-Projects
-All Machine Learning Side Projects
+# Soirts Betting Project
 
 Footodd.io Primer
 By Saad Shahid
 
 Footodd.io is a personal project of mine to help me explore sports betting, sportsbooks and machine learning. All things im interested in. 
+
+tl;dr: A Machine Learning Algorithim in app.py tries to predict the outcome of football matches, compares that to a sportsbook aggregator data to generate the best betting strategy. DOES NOT AUTOMATICALLY PLACE ANY BETS WHATSOEVER
 
 I created the basis of the machine learning algorithm a few months ago and have tweaked it a bit but still need to put in a lot of time on it (which im finding more difficult to put in then I thought I would). Even though the algorithm can be improved I always think it’s a good idea to show people the product and get feedback during the process, so here it is!
 
